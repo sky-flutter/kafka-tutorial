@@ -1,0 +1,6 @@
+2022-09-19 13:43:56,180 - __init__ - producer_demo.py - 11 - Exception occurred - None
+Traceback (most recent call last):
+  File "~/producer_demo.py", line 9, in __init__
+    c = self.a / self.b
+ZeroDivisionError: division by zero
+2022-09-19 13:45:00,034 - __init__ - producer_demo.py - 7 - Hello, world - None
